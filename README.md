@@ -8,4 +8,4 @@ Shows current temperature, weather condition, location, and more.
 
 🎨 Minimal UI
 
-🔄 Refresh weather info
+🔄 Refresh weather info.
